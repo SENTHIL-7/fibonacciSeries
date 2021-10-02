@@ -1,5 +1,3 @@
-package fibSeries;
-
 import java.util.*;
 public class Fibonacci {
 	//find fibonacci series with recursion method
